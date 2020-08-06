@@ -1,0 +1,7 @@
+version: 0.1
+phases:
+    install:
+        commands:
+        - pip3 install -r requirements.txt
+        - pelican content
+        - aws s3 sync output s3://kevingalens.com --delete

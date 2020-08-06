@@ -10,4 +10,4 @@ This website was created using a few awesome projects and technologies, listed b
 - [Flex](https://github.com/alexandrevicenzi/flex)
 
 ## Photo
-The photo in the sidebar was taken at Yellowstone National Park. The full image can be found [here](https://www.flickr.com/photos/kevygee/7462326526/in/album-72157629983026361/)
+The photo in the sidebar was taken at Yellowstone National Park. The full image can be found [here](https://www.flickr.com/photos/kevygee/7462326526/in/album-72157629983026361/).
